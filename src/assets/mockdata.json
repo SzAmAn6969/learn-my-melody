@@ -1,0 +1,34 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "name": "Song 1",
+      "parts": [
+        {
+          "id": 1,
+          "name": "Part 1",
+          "audio1": "audio/song-1/zagrywka-1-harmonijka.wav",
+          "audio2": "audio/song-1/zagrywka-1-pianino.wav",
+          "tabs": [
+            {
+              "id": 1,
+              "title": "Tab 1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Part 2",
+          "audio1": "audio/song-1/zagrywka-1-pianino.wav",
+          "audio2": "audio/song-1/zagrywka-1-harmonijka.wav",
+          "tabs": [
+            {
+              "id": 1,
+              "title": "Tab 1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
